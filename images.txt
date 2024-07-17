@@ -8,4 +8,4 @@
 #mysql
 #openjdk:8
 #tomcat:8.5
-tomcat8_openjdk8
+tomcat8:openjdk8
