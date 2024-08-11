@@ -8,4 +8,5 @@
 #mysql
 #openjdk:8
 #tomcat:8.5
-tomcat8:openjdk8
+#tomcat8:openjdk8
+bitwardenrs/server:latest
