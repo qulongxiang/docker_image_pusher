@@ -13,4 +13,5 @@
 #arm64v8/mysql
 #mysql
 #nginx:1.27.0
-mysql:9.0.1
+#mysql:9.0.1
+mysql:8.4.2
