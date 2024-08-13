@@ -11,4 +11,5 @@
 #tomcat8:openjdk8
 #bitwardenrs/server:latest
 #arm64v8/mysql
-mysql
+#mysql
+nginx:1.2
