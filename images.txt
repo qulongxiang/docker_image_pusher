@@ -12,4 +12,4 @@
 #bitwardenrs/server:latest
 #arm64v8/mysql
 #mysql
-nginx:1.2
+nginx:1.17
