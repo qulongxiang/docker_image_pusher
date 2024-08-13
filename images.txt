@@ -10,4 +10,5 @@
 #tomcat:8.5
 #tomcat8:openjdk8
 #bitwardenrs/server:latest
-arm64v8/mysql
+#arm64v8/mysql
+mysql
