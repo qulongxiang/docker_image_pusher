@@ -1,17 +1,10 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#nginx:stable-alpine-slim
-#mysql
-#openjdk:8
-#tomcat:8.5
-#tomcat8:openjdk8
-#bitwardenrs/server:latest
-#arm64v8/mysql
-#mysql
-#nginx:1.27.0
-#mysql:9.0.1
+openjdk:8
+tomcat:8.5
+bitwardenrs/server
+mysql
 mysql:8.4.2
+mysql:9.0.1
+nginx
+nginx:1.27.0
