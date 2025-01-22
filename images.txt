@@ -1,8 +1,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-grafana/grafana
-prom/prometheus
-prom/node-exporter
+#grafana/grafana
+#prom/prometheus
+#prom/node-exporter
 #openjdk:8
 #tomcat:8.5
 #bitwardenrs/server
@@ -11,3 +11,4 @@ prom/node-exporter
 #mysql:9.0.1
 #nginx
 #nginx:1.27.0
+jokerdj5250/kkfileview-base:4.4.0
