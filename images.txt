@@ -11,4 +11,5 @@
 #mysql:9.0.1
 #nginx
 #nginx:1.27.0
-jokerdj5250/kkfileview-base:4.4.0
+#jokerdj5250/kkfileview-base:4.4.0
+mariadb:10.6.21-ubi9
